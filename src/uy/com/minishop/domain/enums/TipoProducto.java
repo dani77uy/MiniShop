@@ -1,0 +1,6 @@
+package uy.com.minishop.domain.enums;
+
+public enum TipoProducto {
+
+	REFRESCO, FRUTA_O_VERDURA, FIAMBRES_O_QUESO, CARNICERIA, VINO, ENVASADO_AL_VACIO, HELADO, PAPELERIA, JUEGUETERIA
+}
